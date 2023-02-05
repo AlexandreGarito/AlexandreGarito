@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Alexandre
 
 
-I'm an aspiring junior data engineer searching (soon) for an internship around Paris, France.
+I'm an aspiring junior data engineer searching (soon) for an internship near Paris, France.
 
 <br>
 
