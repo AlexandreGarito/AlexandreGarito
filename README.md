@@ -46,4 +46,17 @@ I'm an aspiring junior data engineer searching (soon) for an internship.
 <br>
   
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  
+<br>
+<br>
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandreGarito&theme=vue)
+
+  
+
+  
+
 </div>
+
+
+
