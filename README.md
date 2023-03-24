@@ -3,7 +3,33 @@
 
 I'm an aspiring junior data engineer searching for a first work experience around Paris, France.
 
-<br>
+What I'm currently working on <ins>right now</ins> (24/03/2023) : **Demo project 2 : PostgreSQL interactions and SQL Queries**
+
+Personal activity logs of the past few months: https://docs.google.com/spreadsheets/d/1VtVxfbwBOcrYYIdKbGDg-oZCLXroruiQSov498OVflM/edit?usp=sharing
+
+
+## Demo projects :  
+
+### GCP hosted micro-ETL pipeline and dashboard  
+
+GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
+Website link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
+
+Tools & skills in this project :  
+
+✅ Python (API calls, pandas, pytest unit testing, Dash-Plotly, code documentation) 
+
+✅ Docker (managing dependencies and interactions with GCP environment)  
+
+✅ Google Cloud Platform:  
+    ✔ Cloud Build (CI/CD from GitHub repo)  
+    ✔ Cloud Run (runs Docker containers)  
+    ✔ Cloud Composer (Managed Airflow)  
+    ✔ Secret Manager (secure access to secrets hosted in GCP)  
+
+
+
+### SQL Queries :
 
 <div align="center">
 
@@ -32,13 +58,13 @@ I'm an aspiring junior data engineer searching for a first work experience aroun
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   
 <br>
+
+
+
+<br>
 <br>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandreGarito&theme=vue)
-
-  
-
-  
 
 </div>
 
