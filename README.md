@@ -3,7 +3,7 @@
 
 I'm an aspiring junior data engineer searching for a first work experience around Paris, France.
 
-Today, I'm currently working on my **2nd demo project SQL database set-up and querying** (27/03/2023)
+Today, I'm working on my **2nd demo project SQL database set-up and querying** (27/03/2023)
 
 Personal activity logs of the past few months: https://docs.google.com/spreadsheets/d/1VtVxfbwBOcrYYIdKbGDg-oZCLXroruiQSov498OVflM/edit?usp=sharing
 
