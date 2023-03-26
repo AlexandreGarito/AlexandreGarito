@@ -3,14 +3,16 @@
 
 I'm an aspiring junior data engineer searching for a first work experience around Paris, France.
 
-What I'm currently working on <ins>right now</ins> (24/03/2023) : **Demo project 2 : PostgreSQL interactions and SQL Queries**
+Today, I'm currently working on my **2nd demo project SQL database set-up and querying** (27/03/2023)
 
 Personal activity logs of the past few months: https://docs.google.com/spreadsheets/d/1VtVxfbwBOcrYYIdKbGDg-oZCLXroruiQSov498OVflM/edit?usp=sharing
 
 
+
 ## Demo projects :  
 
-### GCP hosted micro-ETL pipeline and dashboard  
+
+###     GCP hosted micro-ETL pipeline and dashboard  
 
 GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
 Website link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
@@ -26,16 +28,16 @@ Tools & skills in this project :
     ✔ Cloud Run (runs Docker containers)  
     ✔ Cloud Composer (Managed Airflow)  
     ✔ Secret Manager (secure access to secrets hosted in GCP)  
+    
 
 
-
-### SQL database set-up and querying :
+###     SQL database set-up and querying :
 
 In order to train my ability to set-up and interact with an SQL database, I found a dataset on kaggle containing a 2019 web-scrap of glassdoor job listings for data related jobs : https://www.kaggle.com/datasets/andresionek/data-jobs-listings-glassdoor
 
 The dataset contains 15 csv files totaling 160,000 records for 1,47 GB of data, the main csv file has 160 columns for around 900 MB. This dataset suffers from inconsistent, missing, invalid or duplicate data, as you would expect from a webscrap.
 
-My objective was to take this rather untidy dataset, clean it, validate it, create a database in GCP Cloud SQL, build an appropriate database schema (columns, data types, contraints, indexes, etc.) to properly receive the imported data and ensure data integrity for the dataset as it is provided. Finally, I use BigQuery to extract insights that are represented in GCP Data Studio.
+My objective is to take this rather untidy dataset, clean it, validate it, create a database in GCP Cloud SQL, build an appropriate database schema (columns, data types, contraints, indexes, etc.) to properly receive the imported data and ensure data integrity for the dataset as it is provided. Finally, I use BigQuery to extract insights that are represented in GCP Data Studio.
 
 
 <div align="center">
