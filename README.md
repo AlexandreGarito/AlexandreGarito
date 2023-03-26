@@ -31,6 +31,9 @@ Tools & skills in this project :
 
 ### SQL Queries :
 
+I found a very dirty dataset on kaggle : https://www.kaggle.com/datasets/andresionek/data-jobs-listings-glassdoor
+
+
 <div align="center">
 
 ### Tools I'm familiar with :  
