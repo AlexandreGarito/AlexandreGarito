@@ -37,6 +37,7 @@ The dataset contains 15 CSV files, totaling 160,000 records and approximately 1.
 
 My objective is to take this rather untidy dataset, clean it, validate it, and create a PostgreSQL database in GCP Cloud SQL with an appropriate database schema to properly receive the imported data and ensure data integrity within the database. Finally, I'll use BigQuery to extract insights, which will then be visualized in GCP Data Studio.
 
+<br>
 
 <div align="center">
 
