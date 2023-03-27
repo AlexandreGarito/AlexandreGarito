@@ -10,10 +10,10 @@ Personal activity logs of the past few months: https://docs.google.com/spreadshe
 
 ## Demo projects :  
 
-###     GCP hosted micro-ETL pipeline and dashboard  
+###     GCP-hosted micro-ETL data pipeline and dashboard  
 
 GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
-Website link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
+Dashboard link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
 
 Tools & skills in this project :  
 
