@@ -29,7 +29,9 @@ Tools & skills in this project :
     
         
 
-###     SQL database set-up & querying Glassdoor dataset (⚠ work in progress ⚠) :
+###     SQL database set-up & querying Glassdoor dataset (⚠ work in progress ⚠)
+
+GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2
 
 In order to train my ability to set up and interact with an SQL database, I found a dataset on Kaggle containing a 2019 web-scraped collection of Glassdoor job listings for data-related positions: https://www.kaggle.com/datasets/andresionek/data-jobs-listings-glassdoor
 
