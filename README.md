@@ -29,7 +29,7 @@ Tools & skills in this project :
     
         
 
-###     SQL database set-up & querying Glassdoor dataset (⚠ work in progress ⚠)
+###     SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
 
 GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2
 
