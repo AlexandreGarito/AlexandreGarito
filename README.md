@@ -85,13 +85,11 @@ Tools & skills in this project :
 <br>
 <br>
 <br>
-<br>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandreGarito&theme=vue)
 
 </div>
 
-<br>
 <br>
 <br>
 <br>
