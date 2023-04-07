@@ -4,8 +4,6 @@
 I'm an ambitious junior data engineer currently seeking job opportunities in Paris, France, or the surrounding areas.  
 I am open to both on-site and hybrid remote/on-site work arrangements.
 
-Personal activity logs of the past few months: https://docs.google.com/spreadsheets/d/1VtVxfbwBOcrYYIdKbGDg-oZCLXroruiQSov498OVflM/edit?usp=sharing
-
 
 
 ## Demo projects :
