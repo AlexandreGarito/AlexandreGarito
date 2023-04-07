@@ -52,6 +52,8 @@ Tools & skills in this project :
 
 <div align="center">
 
+<br>
+
 ### Tools I'm familiar with :  
 
 <br>
