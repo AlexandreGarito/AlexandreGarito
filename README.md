@@ -93,9 +93,9 @@ Tools & skills in this project :
 <br>
 <br>
 <br>
-<br>
 
-Hobbies related skills:
+
+### Hobbies related skills:
 - SideFX's Houdini (3D modelisation & rendering)
 - Unity (real-time 3D)
 - Zbrush (3D sculpting)
@@ -106,7 +106,6 @@ Hobbies related skills:
 - Photogrammetry (3D modelisation from photos)
 - SLA 3D printing
 - NFC tags
-
 
 
 
