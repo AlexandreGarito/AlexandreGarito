@@ -12,7 +12,7 @@ Personal activity logs of the past few months: https://docs.google.com/spreadshe
 
 <br>
 
-###     GCP-hosted micro-ETL data pipeline and dashboard  
+###     GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
 GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
 Web dashboard link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
@@ -41,9 +41,13 @@ GCP Looker dashboard link : https://lookerstudio.google.com/reporting/127231ff-f
 Tools & skills in this project : 
 
   ✅ Clean and validate a large (1.5GB) and dirty (web-scraped) dataset using Python pandas  
+  
   ✅ Design and create a multi-dimensional database schema using SQL  
+  
   ✅ Manage compatibility issues involved in the data upload to a PostgreSQL database hosted on GCP  
+  
   ✅ Perform SQL-based querying and gain insights using GCP BigQuery  
+  
   ✅ Visualize data using GCP Looker (formerly Data Studio)  
 
 <br>
@@ -71,19 +75,33 @@ Tools & skills in this project :
 
   
 <br>
-  
-![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  
 <br>
-
-
-
 <br>
 <br>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandreGarito&theme=vue)
 
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Other accessory skills:
+
+- SideFX's Houdini (3D modelisation & rendering)
+- Unity (real-time 3D)
+- Zbrush (3D sculpting)
+- Substance Designer (3D texturing)
+- Adobe Photoshop (photo montage)
+- Adobe Premiere (video montage)
+- Stable Diffusion (image generation)
+- Photogrammetry (3D modelisation from photos)
+- SLA 3D printing
+- NFC tags
+- Silicon molding
 
 
 
