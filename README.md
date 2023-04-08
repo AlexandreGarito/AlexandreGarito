@@ -2,7 +2,7 @@
 
 
 I'm an ambitious junior data engineer currently seeking job opportunities in Paris, France, or the surrounding areas.  
-I am open to both on-site and hybrid remote/on-site work arrangements.
+I am open to both on-site only or hybrid remote/on-site work arrangements.
 
 <br>
 
