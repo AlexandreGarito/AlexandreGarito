@@ -95,7 +95,7 @@ Tools & skills in this project :
 <br>
 
 
-### Hobbies related skills:
+### Hobby-related skills:
 - SideFX's Houdini (3D modelisation & rendering)
 - Unity (real-time 3D)
 - Zbrush (3D sculpting)
