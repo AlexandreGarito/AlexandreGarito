@@ -39,6 +39,9 @@ I am open to on-site only work arrangement, or hybrid remote/on-site.
 
 ###     GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
+![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
+
+
 GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
 Web dashboard link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
 
@@ -57,6 +60,8 @@ Tools & skills in this project :
         
 
 ###     SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
+
+![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
 
 GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2  
 GCP Looker dashboard link : https://lookerstudio.google.com/reporting/127231ff-fc3c-464a-a6b5-28d075df9672
