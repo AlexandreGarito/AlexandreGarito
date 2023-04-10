@@ -36,6 +36,7 @@ I am open to on-site only work arrangement, or hybrid remote/on-site.
 ## Demo projects :
 
 <br>
+<br>
 
 ###     Project 1: GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
@@ -57,7 +58,8 @@ Tools & skills in this project :
     ✔ Cloud Composer (Managed Airflow)  
     ✔ Secret Manager (secure access to secrets hosted in GCP)  
     
-        
+<br>
+<br>
 
 ###     Project 2: SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
 
