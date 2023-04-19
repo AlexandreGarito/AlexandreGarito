@@ -48,7 +48,7 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 
 ### Project 1: GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
-[![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)](https://github.com/AlexandreGarito/data-pipeline-demo-1){:target="_blank"}
+![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
 
 
 
