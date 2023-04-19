@@ -4,7 +4,8 @@
 I'm an ambitious junior data engineer with a strong passion for technology, experienced in Python, SQL, and Google Cloud Platform. I developed a high degree of autonomy and strong learning skills through a 5-year professional exploration journey where I initiated six different business projects.  
 I'm currently seeking job opportunities in Paris, France, or the surrounding areas. I am open to full on-site work arrangements or hybrid remote/on-site. 
 
-LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
+LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/  
+PDF Resume : https://github.com/AlexandreGarito/Resume
 
 <br>
 
