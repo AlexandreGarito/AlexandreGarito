@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Alexandre
 
 
-Ambitious Google Cloud Certified Junior Data Engineer with a strong passion for technology, experienced in GCP, Python and SQL. Although I haven't yet had the opportunity to evolve in a professional data setting, I've practiced my skills by creating small github projects to gain some hands-on experience in data infrastructure. I am eager to strengthen my data engineering skills and also planning on expanding those skills towards machine learning ops and infrastructure in the near future. I’m excited to join a team with a strong drive to achieve ambitious data-driven projects. I'm currently seeking job opportunities in Paris, France, or the surrounding areas. I am open to full on-site and hybrid remote/on-site work arrangements.
+Ambitious Google Cloud Certified Junior Data Engineer with a strong passion for technology, experienced in GCP, Python and SQL. Although I haven't yet had the opportunity to evolve in a professional data setting, I've practiced my skills by creating small github projects to gain some hands-on experience in data infrastructure. Eager to further my data engineering expertise, I also plan to expand my skills into machine learning operations and infrastructure in the near future. I’m excited to join a team with a strong drive to achieve ambitious data-driven projects. I'm currently seeking job opportunities in Paris, France, or the surrounding areas. I am open to full on-site and hybrid remote/on-site work arrangements.
 
 LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/  
 PDF Resume : https://github.com/AlexandreGarito/Resume
