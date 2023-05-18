@@ -32,7 +32,7 @@ PDF Resume : https://github.com/AlexandreGarito/Resume
 <br>
   
 ### What I'm currently working on:  
-  Preparing for **Google's Professional Data Engineer Certification**
+  Attending **Mathematics for Machine Learning and Data Science** course on Coursera & DeepLearning.AI 
 </div>
 
 
