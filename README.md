@@ -31,7 +31,7 @@ PDF Resume : https://github.com/AlexandreGarito/Resume
 
 <br>
   
-### What I'm currently working on:  
+### What I'm currently working on (end of June 2023):  
   Studying **Langchain** for a personal project
 </div>
 
