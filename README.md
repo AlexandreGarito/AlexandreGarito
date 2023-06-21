@@ -32,7 +32,7 @@ PDF Resume : https://github.com/AlexandreGarito/Resume
 <br>
   
 ### What I'm currently working on:  
-  Studying **Langchain**
+  Studying **Langchain** for a personal project
 </div>
 
 
