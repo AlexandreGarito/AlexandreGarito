@@ -32,7 +32,7 @@ PDF Resume : https://github.com/AlexandreGarito/Resume
 <br>
   
 ### What I'm currently working on (end of June 2023):  
-  Working on a personal project 
+  Working on a personal project (langchain + text-to-speech)
 </div>
 
 
