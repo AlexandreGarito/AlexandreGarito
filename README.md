@@ -32,7 +32,7 @@ PDF Resume : https://github.com/AlexandreGarito/Resume
 <br>
   
 ### What I'm currently working on (end of June 2023):  
-  Working on a personal project (langchain + text-to-speech)
+  Machine Learning specialization (Andrew Ng) on Coursera (my objective is to understand more about ML Ops, as it often borders data engineering)
 </div>
 
 
