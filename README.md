@@ -38,7 +38,7 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 <br>
 
 
-## Demo projects :
+## Beginner projects :
 
 <br>
 <br>
