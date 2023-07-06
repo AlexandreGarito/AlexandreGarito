@@ -30,10 +30,7 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) -->
 
 <br>
-  
-### What I'm currently working on (end of June 2023):  
-  Machine Learning specialization (Andrew Ng) on Coursera (my objective is to understand more about ML Ops, as it often borders data engineering)
-</div>
+
 
 
 
