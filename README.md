@@ -23,29 +23,68 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   
+</div>
 
-
-
-
-<!-- ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) -->
-
-<br>
-
-
-
+<div align="left">
 
 
 <br>
 
 
-## Beginner projects :
+
+
+
+<br>
+
+
+## Personal Projects :
 
 <br>
 <br>
 
-### Project 1: GCP-hosted Micro-ETL Data Pipeline and Dashboard  
+
+
+## &ensp;&ensp;&ensp;&ensp;&ensp;Power BI Sales Analysis Report (SuperStore)
+
+<br>
+
+The report was made from the SuperStore Global dataset, an open-source artificial sales dataset featuring a global ecommerce.  
+Data was first uploaded to a Azure SQL Database then queried from Power BI.  
+  
+Topics of the reports:
+  - Sales trends
+  - Most profitable products
+  - Key influencers of sales
+  - Top performing locations
+  - Most popular order ship mode and priority
+
+<p align="center">
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0001.jpg" width="33%" />
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0002.jpg" width="33%" />
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0003.jpg" width="33%" />
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0004.jpg" width="33%" />
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0005.jpg" width="33%" />
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0006.jpg" width="33%" />  
+  <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0007.jpg" width="33%" align="left"/>
+</p>  
+
+<br>  
+
+</div>
+
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+
+## &ensp;&ensp;&ensp;&ensp;&ensp;Power BI Sales Analysis Report (SuperStore)
+
+
+## Project 1: GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
 ![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
 
