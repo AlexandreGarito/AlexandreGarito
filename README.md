@@ -51,12 +51,14 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 The report was made from the SuperStore Global dataset, an open-source artificial sales dataset featuring a global ecommerce.  
 Data was first uploaded to a Azure SQL Database then queried from Power BI.  
   
-Topics of the reports:
-  - Sales trends
-  - Most profitable products
-  - Key influencers of sales
-  - Top performing locations
-  - Most popular order ship mode and priority
+### Insights:
+  - 
+  - 
+
+### Recommendations:
+  - 
+  - 
+  - 
 
 <p align="center">
   <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0001.jpg" width="33%" />
@@ -83,15 +85,21 @@ Topics of the reports:
 
 ## &ensp;&ensp;&ensp;&ensp;&ensp;Power BI Sales Analysis Report (SuperStore)
 
+### Insights:
+  - 
+  - 
 
-## Project 1: GCP-hosted Micro-ETL Data Pipeline and Dashboard  
+### Recommendations:
+  - 
+  - 
+  - 
+
+## GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
 ![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
 
 
 
-GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1  
-Web dashboard link : https://data-pipeline-demo-1-orqlvqurxq-ew.a.run.app/
 
 Tools & skills in this project :  
 
@@ -108,7 +116,7 @@ Tools & skills in this project :
 <br>
 <br>
 
-### Project 2: SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
+### SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
 
 ![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
 
