@@ -65,8 +65,8 @@ Data was first uploaded to a Azure SQL Database then queried from Power BI.
   - Copiers and Phones have higher than average profit per order, and growing.
   - The Asia-Pacific and European-Union have higher than average sales per order.
   - Products with low discounts (0 to 7% off) have higher than average sales per order.
-  - Our biggest market is the US (~18% of sales)
-  - A second group of countries account form another big part of our sales (~38% of sales) : Mexico, the United Kingdom, France, Germany, India, China and Australia.
+  - Our first market is the US (~18% of sales)
+  - A second group of countries form another big part of our sales (~38% of sales) : Mexico, the United Kingdom, France, Germany, India, China and Australia.
   - A third group is composed of the rest of the world (~43% of sales).
   - Our top cities for sales are mainly in North-America and Asia-Pacific markets.
   - Ship Mode : 80% of all orders are Standard or Second class orders.
