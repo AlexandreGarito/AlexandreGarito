@@ -81,6 +81,11 @@ Data was first uploaded to a Azure SQL Database then queried from Power BI.
   - We must seek to optimize the cost of processing Standard and Second class orders.
   - We must seek to optimize the cost of processing Medium and High priority orders.
 
+<br>
+
+*Power BI report:*
+<br>
+
 <p align="center">
   <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0001.jpg" width="33%" />
   <img src="https://github.com/AlexandreGarito/pbi_demo_1/blob/main/images/demo1_0002.jpg" width="33%" />
@@ -138,8 +143,10 @@ Additional findings:
 - Solution must first be tested in a development environment and tuned to only alert on rare outlier decisions.
 - The "home improvement" loans could become a category of loans where higher amounts could be allowed compared to other loan intents.
 
+<br>
 
-
+*Power BI report:*
+<br>
 <p align="center">
   <img src="https://github.com/AlexandreGarito/pbi_demo_2/blob/main/images/demo2_0001.jpg" width="33%" />
   <img src="https://github.com/AlexandreGarito/pbi_demo_2/blob/main/images/demo2_0002.jpg" width="33%" />
