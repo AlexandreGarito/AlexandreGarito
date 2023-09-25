@@ -102,6 +102,8 @@ Data was first uploaded to a Azure SQL Database then queried from Power BI.
 <br>  
 <br>  
 <br>  
+<br>
+<br>
 <br>  
 
 ## &ensp;&ensp;&ensp;&ensp;&ensp;Credit Risk Analysis (Power BI)
@@ -147,10 +149,11 @@ Additional findings:
   <img src="https://github.com/AlexandreGarito/pbi_demo_2/blob/main/images/demo2_0006.jpg" width="33%" />
 </p>  
 
-
-<br>  
-<br>  
-<br>  
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
