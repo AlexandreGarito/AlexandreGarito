@@ -44,7 +44,7 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 
 
 
-## &ensp;&ensp;&ensp;&ensp;&ensp;Power BI Sales Analysis Report (SuperStore)
+## &ensp;&ensp;&ensp;&ensp;&ensp;Sales Analysis Report (Power BI )
 
 <br>
 
@@ -104,7 +104,7 @@ Data was first uploaded to a Azure SQL Database then queried from Power BI.
 <br>  
 <br>  
 
-## &ensp;&ensp;&ensp;&ensp;&ensp;Power BI Credit Risk Analysis
+## &ensp;&ensp;&ensp;&ensp;&ensp;Credit Risk Analysis (Power BI)
 
 The report was made from a synthetic credit risk dataset.
 Data was first uploaded to a Azure SQL Database then queried from Power BI.
