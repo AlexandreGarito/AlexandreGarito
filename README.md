@@ -162,7 +162,7 @@ Additional findings:
 <br>
 
 
-# Earlier Work (training projects in data engineering)
+# Earlier Work - Training Projects in Data Engineering
 
 <br>
 
