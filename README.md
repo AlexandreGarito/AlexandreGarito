@@ -160,14 +160,21 @@ Additional findings:
 <br>
 <br>
 <br>
+
+
+# Earlier Work
+
 <br>
+
+
+
 
 ## GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
 ![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
 
 
-
+GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1
 
 Tools & skills in this project :  
 
