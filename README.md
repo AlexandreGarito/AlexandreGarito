@@ -191,7 +191,7 @@ Tools & skills in this project :
 <br>
 <br>
 
-### SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
+## SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
 
 ![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
 
