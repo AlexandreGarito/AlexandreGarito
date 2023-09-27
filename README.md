@@ -139,8 +139,8 @@ Additional findings:
 
 ### Recommendations:
 
-- According to the findings above, manual heuristic checks could be put in place to make sure that certain specific outlier decisions made by the model regarding accepting/denying certain loans can be reviewed by humans for confirmation (for example, the model decides to deny a loan with a Loan to Income % lower than 15%). Heuristics could be designed based on those 5 factors: Loan Grade, Income, Home Ownership, Loan to Income % and Past Default history.
-- Solution must first be tested in a development environment and tuned to only alert on rare outlier decisions.
+- According to the findings above, manual heuristic checks could be put in place to make sure that certain specific outlier decisions made by the ML model regarding accepting/denying certain loans can be reviewed by humans for confirmation (for example, the ML model decides to deny a loan with a Loan to Income % lower than 15%). Heuristics could be designed based on those 5 factors: Loan Grade, Income, Home Ownership, Loan to Income % and Past Default history.
+- These heuristics must first be tested in a development environment and tuned to only send an alert on rare outlier decisions.
 - The "home improvement" loans could become a category of loans where higher amounts could be allowed compared to other loan intents.
 
 <br>
