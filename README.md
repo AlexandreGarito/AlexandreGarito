@@ -134,7 +134,7 @@ After our analysis, it was found that the top factors strongly associated with l
 
 Additional findings:
 - Interest rates: the influence of interest rates on defaults is present but quite weaker than other factors.
-- Loan intent: "Home improvement" is the only loan intent where the average non-default loan is of higher amount than the defaulted loans. 
+- Loan intent: "Home improvement" is the only loan intent where the average non-defaulted loan is of higher amount than the defaulted loans. 
 
 
 ### Recommendations:
