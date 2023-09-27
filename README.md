@@ -169,7 +169,7 @@ Additional findings:
 
 
 
-## GCP-hosted Micro-ETL Data Pipeline and Dashboard  
+## &ensp;&ensp;&ensp;&ensp;&ensp;GCP-hosted Micro-ETL Data Pipeline and Dashboard  
 
 ![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
 
@@ -191,7 +191,7 @@ Tools & skills in this project :
 <br>
 <br>
 
-## SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
+## &ensp;&ensp;&ensp;&ensp;&ensp;SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
 
 ![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
 
