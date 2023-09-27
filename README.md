@@ -37,7 +37,7 @@ LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/
 <br>
 
 
-## Personal Projects :
+## Data Analysis Projects :
 
 <br>
 <br>
