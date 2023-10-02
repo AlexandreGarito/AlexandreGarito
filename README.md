@@ -5,11 +5,6 @@
 I'm Alexandre, an aspiring data professional actively pursuing an entry-level data analyst position. I have a strong passion for technology, certified as a Microsoft Power BI Data Analyst, Azure Database Administrator Associate and GCP Professional Data Engineer, and proficient in Python and SQL. Coming out of a now closed entrepreneurial journey, I’m eager to start a new career in the field of data. I’m highly adaptable, curious, self-motivated, a quick learner, and ready to prove my worth.
 I'm currently available for work in Paris and its surroundings.
 
-
-
-LinkedIn Profile : https://www.linkedin.com/in/alexandre-garito-b43772264/  
-<!-- PDF Resume : https://github.com/AlexandreGarito/Resume -->
-
 <br>
 
 <div align="center">
