@@ -1,4 +1,3 @@
-# RESUME IN RECONSTRUCTION 🚧🏗
 
 
 # 👋 Hi there, I'm Alexandre
