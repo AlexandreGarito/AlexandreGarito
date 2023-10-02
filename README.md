@@ -187,7 +187,9 @@ Tools & skills in this project :
     ✔ Cloud Run (runs Docker containers)  
     ✔ Cloud Composer (Managed Airflow)  
     ✔ Secret Manager (secure access to secrets hosted in GCP)  
-    
+
+This project has been stopped in July 2023.
+
 <br>
 <br>
 
