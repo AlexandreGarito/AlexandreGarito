@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Alexandre
 
-I'm Alexandre, an aspiring data professional actively pursuing an entry-level data analyst position. I have a strong passion for technology, certified as a Microsoft Power BI Data Analyst, Azure Database Administrator Associate and GCP Professional Data Engineer, and proficient in Python and SQL. Coming out of a now closed entrepreneurial journey, I’m eager to start a new career in the field of data. I’m highly adaptable, curious, self-motivated, a quick learner, and ready to prove my worth.
-I'm currently available for work in Paris and its surroundings.
+After concluding a chapter as an independent entrepreneur, I am currently seeking to enter and leverage my skills into a data-centric role. Currently holding certifications as a Microsoft Power BI Data Analyst, Azure Database Administrator Associate, and GCP Professional Data Engineer, I’m also proficient in Python and SQL.  Known for my adaptability, curiosity, and self-motivation, I excel in fast-paced environments and have an ability to resolve conflicts and build consensus. I am particularly interested in positions that allow me to make full use of my analytical and problem-solving abilities, as well as my English skills. Currently available for work in Paris and its surrounding areas.
 
 <br>
 
