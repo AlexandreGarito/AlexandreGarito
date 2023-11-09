@@ -2,7 +2,9 @@
 
 # 👋 Hi there, I'm Alexandre
 
-After concluding a chapter as an independent entrepreneur, I am currently seeking to enter and leverage my skills into a data-centric role. Currently holding certifications as a Microsoft Power BI Data Analyst, Azure Database Administrator Associate, and GCP Professional Data Engineer, I’m also proficient in Python and SQL.  Known for my adaptability, curiosity, and self-motivation, I excel in fast-paced environments and have an ability to resolve conflicts and build consensus. I am particularly interested in positions that allow me to make full use of my analytical and problem-solving abilities, as well as my English skills. Currently available for work in Paris and its surrounding areas.
+I am currently seeking a junior Data Engineer position or a related database role (Data Analyst, DBA, ETL, etc.). I am certified as a Professional Data Engineer on GCP, as a Database Administrator on Azure SQL, and as a Power BI Data Analyst. I also have broader skills in Python and SQL. Known for my adaptability, curiosity, and autonomy, I am eager to gain experience in the data field to kick-start my career. I am particularly interested in positions where English is required on a daily basis.
+
+I am currently available to work in Paris and the surrounding areas. While I prefer an on-site position, I am also open to remote work.
 
 <br>
 
