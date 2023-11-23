@@ -49,7 +49,7 @@ Currently working in data engineering, this page serves as a portfolio for my pe
   <img src="https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/screencapture-data-pipeline-demo-1.png" width="50%; margin: 0 auto;" />
 </div>
 
-A Python-coded and GCP-hosted micro-ETL data pipeline and interactive dashboard that displays API data using the Dash-Plotly web framework, updated daily using DevOps tools such as CI/CD, Docker, and Airflow.
+An early training project that allowed me to learn a lot of tools that I wanted to get familiar with, though not very practical/production-like in its architecture. A Python-coded and GCP-hosted micro-ETL data pipeline and interactive dashboard that displays API data using the Dash-Plotly web framework, updated daily using DevOps tools such as CI/CD, Docker, and Airflow.
 
 GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1
 
