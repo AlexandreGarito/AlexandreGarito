@@ -81,7 +81,7 @@ This project has been stopped in July 2023.
   <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker4.PNG" width="24.5%" />
 </p>
 
-A practice exercise to set up and interact with a PostgreSQL database, clean and validate a large and dirty dataset with Python, as well as visualize the resulting data with BigQuery and Looker.
+A practice exercise to set up and interact with a traditional relational SQL database (PostgreSQL), clean and validate a large and dirty dataset with Python, as well as visualize the resulting data with BigQuery and Looker.
 
 GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2  
 GCP Looker dashboard link : https://lookerstudio.google.com/reporting/127231ff-fc3c-464a-a6b5-28d075df9672
