@@ -32,6 +32,78 @@ Currently working in data engineering, this page serves as a portfolio for my pe
 <br>
 
 
+
+
+# Data Engineering
+
+<br>
+
+
+
+
+## &ensp;&ensp;&ensp;&ensp;&ensp;GCP-hosted Micro-ETL Data Pipeline and Dashboard  
+
+![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
+
+<p align="center">
+  <img src="https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/screencapture-data-pipeline-demo-1.png" width="50%; margin: 0 auto;" />
+</div>
+
+A Python-coded and GCP-hosted micro-ETL data pipeline and interactive dashboard that displays API data using the Dash-Plotly web framework, updated daily using DevOps tools such as CI/CD, Docker, and Airflow.
+
+GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1
+
+Tools & skills in this project :  
+
+✅ Python (API calls, pandas, pytest unit testing, Dash-Plotly, code documentation) 
+
+✅ Docker (managing dependencies and interactions with GCP environment)  
+
+✅ Google Cloud Platform:  
+    ✔ Cloud Build (CI/CD from GitHub repo)  
+    ✔ Cloud Run (runs Docker containers)  
+    ✔ Cloud Composer (Managed Airflow)  
+    ✔ Secret Manager (secure access to secrets hosted in GCP)  
+
+This project has been stopped in July 2023.
+
+<br>
+<br>
+
+## &ensp;&ensp;&ensp;&ensp;&ensp;SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
+
+![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
+
+<p align="center">
+  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker1.PNG" width="24.5%" />
+  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker2.PNG" width="24.5%" />
+  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker3.PNG" width="24.5%" />
+  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker4.PNG" width="24.5%" />
+</p>
+
+A practice exercise to set up and interact with a PostgreSQL database, clean and validate a large and dirty dataset with Python, as well as visualize the resulting data with BigQuery and Looker.
+
+GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2  
+GCP Looker dashboard link : https://lookerstudio.google.com/reporting/127231ff-fc3c-464a-a6b5-28d075df9672
+
+<br>
+
+Tools & skills in this project : 
+
+  ✅ Clean and validate a large (1.5GB) and dirty (web-scraped) dataset using Python pandas  
+  
+  ✅ Design and create a multi-dimensional database schema using SQL  
+  
+  ✅ Manage compatibility issues involved in the data upload to a PostgreSQL database hosted on GCP  
+  
+  ✅ Perform SQL-based querying and gain insights using GCP BigQuery  
+  
+  ✅ Visualize data using GCP Looker (formerly Data Studio)  
+
+<br>
+
+
+
 # Data Analysis Projects :
 
 <br>
@@ -153,75 +225,6 @@ Additional findings:
 <br>
 <br>
 <br>
-<br>
-
-
-# Data Engineering
-
-<br>
-
-
-
-
-## &ensp;&ensp;&ensp;&ensp;&ensp;GCP-hosted Micro-ETL Data Pipeline and Dashboard  
-
-![illustration pipeline1](https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/illustration%20pipeline%20demo-1.png)
-
-<p align="center">
-  <img src="https://github.com/AlexandreGarito/data-pipeline-demo-1/blob/main/images/screencapture-data-pipeline-demo-1.png" width="50%; margin: 0 auto;" />
-</div>
-
-A Python-coded and GCP-hosted micro-ETL data pipeline and interactive dashboard that displays API data using the Dash-Plotly web framework, updated daily using DevOps tools such as CI/CD, Docker, and Airflow.
-
-GitHub repo link : https://github.com/AlexandreGarito/data-pipeline-demo-1
-
-Tools & skills in this project :  
-
-✅ Python (API calls, pandas, pytest unit testing, Dash-Plotly, code documentation) 
-
-✅ Docker (managing dependencies and interactions with GCP environment)  
-
-✅ Google Cloud Platform:  
-    ✔ Cloud Build (CI/CD from GitHub repo)  
-    ✔ Cloud Run (runs Docker containers)  
-    ✔ Cloud Composer (Managed Airflow)  
-    ✔ Secret Manager (secure access to secrets hosted in GCP)  
-
-This project has been stopped in July 2023.
-
-<br>
-<br>
-
-## &ensp;&ensp;&ensp;&ensp;&ensp;SQL Database Setup and Analysis of a Glassdoor Job Listings Dataset
-
-![illustration pipeline2](https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/illustration%20pipeline%20demo-2.png)
-
-<p align="center">
-  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker1.PNG" width="24.5%" />
-  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker2.PNG" width="24.5%" />
-  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker3.PNG" width="24.5%" />
-  <img src="https://github.com/AlexandreGarito/SQL-database-demo-2/blob/main/images/looker4.PNG" width="24.5%" />
-</p>
-
-A practice exercise to set up and interact with a PostgreSQL database, clean and validate a large and dirty dataset with Python, as well as visualize the resulting data with BigQuery and Looker.
-
-GitHub repo link : https://github.com/AlexandreGarito/SQL-database-demo-2  
-GCP Looker dashboard link : https://lookerstudio.google.com/reporting/127231ff-fc3c-464a-a6b5-28d075df9672
-
-<br>
-
-Tools & skills in this project : 
-
-  ✅ Clean and validate a large (1.5GB) and dirty (web-scraped) dataset using Python pandas  
-  
-  ✅ Design and create a multi-dimensional database schema using SQL  
-  
-  ✅ Manage compatibility issues involved in the data upload to a PostgreSQL database hosted on GCP  
-  
-  ✅ Perform SQL-based querying and gain insights using GCP BigQuery  
-  
-  ✅ Visualize data using GCP Looker (formerly Data Studio)  
-
 <br>
 
 <div align="center">
