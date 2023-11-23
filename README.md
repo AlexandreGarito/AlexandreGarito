@@ -2,10 +2,7 @@
 
 # 👋 Hi there, I'm Alexandre
 
-I am currently seeking a junior Data Engineer position or a related database role (Data Analyst, DBA, ETL, etc.). I am certified as a Professional Data Engineer on GCP, as a Database Administrator on Azure SQL, and as a Power BI Data Analyst. I also have broader skills in Python and SQL. Known for my adaptability, curiosity, and autonomy, I am eager to gain experience in the data field to kick-start my career. I am particularly interested in positions where English is required on a daily basis.
-
-I am currently available to work in Paris and the surrounding areas. While I prefer an on-site position, I am also open to remote work.
-
+Currently working in data engineering, this page serves as a portfolio for my personal projects.
 <br>
 
 <div align="center">
